@@ -1,0 +1,5 @@
+require_relative 'exercise1'
+require_relative 'exercise2'
+require_relative 'exercise3'
+require_relative 'exercise4'
+require_relative 'exercise5'
