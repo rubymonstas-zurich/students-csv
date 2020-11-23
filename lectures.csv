@@ -26,7 +26,7 @@ id,title,level
 6.374,Analysis and Design of Digital Integrated Circuits (Fall 2003),Graduate
 6.431,Probabilistic Systems Analysis and Applied Probability (Fall 2010),Graduate
 6.431,Probabilistic Systems Analysis and Applied Probability (Spring 2006),Graduate
-6.432,Stochastic Processes, Detection, and Estimation (Spring 2004),Graduate
+6.432,"Stochastic Processes, Detection, and Estimation (Spring 2004)",Graduate
 6.435,System Identification (Spring 2005),Graduate
 6.436J,Fundamentals of Probability (Fall 2008),Graduate
 6.438,Algorithms for Inference (Fall 2014),Graduate
@@ -38,24 +38,24 @@ id,title,level
 6.451,Principles of Digital Communication II (Spring 2005),Graduate
 6.452,Principles of Wireless Communications (Spring 2006),Graduate
 6.453,Quantum Optical Communication (Fall 2016),Graduate
-6.524J,Molecular, Cellular and Tissue Biomechanics (BE.410J) (Spring 2003),Graduate
+6.524J,"Molecular, Cellular and Tissue Biomechanics (BE.410J) (Spring 2003)",Graduate
 6.541J,Speech Communication (Spring 2004),Graduate
-6.542J,Laboratory on the Physiology, Acoustics, and Perception of Speech (Fall 2005),Graduate
+6.542J,"Laboratory on the Physiology, Acoustics, and Perception of Speech (Fall 2005)",Graduate
 6.543J,The Lexicon and Its Features (Spring 2007),Graduate
 6.551J,Acoustics of Speech and Hearing (Fall 2004),Graduate
 6.555J,Biomedical Signal and Image Processing (Spring 2007),Graduate
-6.561J,Fields, Forces, and Flows in Biological Systems (Fall 2015),Graduate
+6.561J,"Fields, Forces, and Flows in Biological Systems (Fall 2015)",Graduate
 6.581J,Foundations of Algorithms and Computational Techniques in Systems Biology (Spring 2006),Graduate
 6.630,Electromagnetics (Fall 2006),Graduate
 6.632,Electromagnetic Wave Theory (Spring 2003),Graduate
 6.635,Advanced Electromagnetism (Spring 2003),Graduate
-6.637,Optical Signals, Devices, and Systems (Spring 2003),Graduate
-6.641,Electromagnetic Fields, Forces, and Motion (Spring 2009),Graduate
-6.641,Electromagnetic Fields, Forces, and Motion (Spring 2005),Graduate
+6.637,"Optical Signals, Devices, and Systems (Spring 2003)",Graduate
+6.641,"Electromagnetic Fields, Forces, and Motion (Spring 2009)",Graduate
+6.641,"Electromagnetic Fields, Forces, and Motion (Spring 2005)",Graduate
 6.642,Continuum Electromechanics (Fall 2008),Graduate
 6.651J,Introduction to Plasma Physics I (Fall 2006),Graduate
 6.651J,Introduction to Plasma Physics I (Fall 2003),Graduate
-6.661,Receivers, Antennas, and Signals (Spring 2003),Graduate
+6.661,"Receivers, Antennas, and Signals (Spring 2003)",Graduate
 6.685,Electric Machines (Fall 2013),Graduate
 6.690,Introduction to Electric Power Systems (Spring 2011),Graduate
 6.691,Seminar in Electric Power Systems (Spring 2006),Graduate
@@ -91,7 +91,7 @@ id,title,level
 6.841J,Advanced Complexity Theory (Spring 2016),Graduate
 6.844,Computability Theory of and with Scheme (Spring 2003),Graduate
 6.845,Quantum Complexity Theory (Fall 2010),Graduate
-6.849,Geometric Folding Algorithms: Linkages, Origami, Polyhedra (Fall 2012),Graduate
+6.849,"Geometric Folding Algorithms: Linkages, Origami, Polyhedra (Fall 2012)",Graduate
 6.851,Advanced Data Structures (Spring 2012),Graduate
 6.852J,Distributed Algorithms (Fall 2009),Graduate
 6.854J,Advanced Algorithms (Fall 2008),Graduate
@@ -137,7 +137,7 @@ id,title,level
 6.972,Algebraic Techniques and Semidefinite Optimization (Spring 2006),Graduate
 6.973,Communication System Design (Spring 2006),Graduate
 6.973,Organic Optoelectronics (Spring 2003),Graduate
-6.974,Engineering, Economics and Regulation of the Electric Power Sector (Spring 2010),Graduate
+6.974,"Engineering, Economics and Regulation of the Electric Power Sector (Spring 2010)",Graduate
 6.974,Fundamentals of Photonics: Quantum Electronics (Spring 2006),Graduate
 6.975,Introduction to Convex Optimization (Fall 2009),Graduate
 6.976,High Speed Communication Circuits and Systems (Spring 2003),Graduate
