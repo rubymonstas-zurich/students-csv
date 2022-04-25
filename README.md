@@ -16,4 +16,4 @@ Download the project [here](https://github.com/rubymonstas-zurich/students-csv/a
 
 4) Not all students did the same amount of exercises. List all the students sorted by the number of exercises they submitted. There's not a single person on the top of this list. What are the names of the students that submitted the most exercises?
 
-5) Bonus: What's the lecture with the highest average percentage achieved? What's the lecture with the lowest percentage achieved?
+5) Bonus: What's the lecture with the highest average percentage achieved? What's the lecture with the lowest average percentage achieved?
